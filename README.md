@@ -1,6 +1,6 @@
 **<div align="center">
 
-# Shriya Garlapati
+# Shriya G
 
 ### Software Engineer · Java · Spring Boot · React · AWS
 
