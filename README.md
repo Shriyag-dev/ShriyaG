@@ -21,7 +21,7 @@ Software Engineer with 5 years of experience building scalable microservices and
 
 - M.S. Computer Science, University of Georgia — GPA 3.85 / 4.0
 - 5 years across backend systems, cloud infrastructure, and full-stack development
-- Production experience with RAG pipelines, LLM integration, and AI-assisted tooling
+
 
 ---
 
